@@ -138,7 +138,7 @@ public class Principal{
         
         dijkstra.recorrerDijkstra(grafo1, 2);
         dijkstra.printDist();
-        dijkstra.generarcaminoscortos(grafo1,2);
+        //dijkstra.generarcaminoscortos(grafo1,2);
     }
 
     public void testDijkstra02(){

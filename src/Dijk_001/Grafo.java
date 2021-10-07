@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class Grafo{
     public List<List<ParAristaNodo>> listAdj;
     public int numeroNodos; 
-
+    //
     public Grafo(int numeroNodos){
         this.numeroNodos = numeroNodos;
         this.listAdj = new ArrayList<List<ParAristaNodo>>(this.numeroNodos);

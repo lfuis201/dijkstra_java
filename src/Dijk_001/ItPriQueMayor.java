@@ -4,7 +4,7 @@ package Dijk_001;
 public class ItPriQueMayor implements Comparable<ItPriQueMayor>{
     public int d;
     public int u;
-
+    //
     public ItPriQueMayor(int d, int u){
         this.d = d;
         this.u = u;

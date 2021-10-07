@@ -7,7 +7,7 @@ public class Ejercicio_6 implements Comparable<Ejercicio_6>{
     int b;
     int c;
     int d;
-
+    //
     public Ejercicio_6(int a, int b, int c, int d) {
         this.a = a;
         this.b = b;

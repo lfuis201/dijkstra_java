@@ -7,7 +7,7 @@ import java.util.List;
 public class Dijkstra{
 
     public double[] dist;
-    
+    //
 
     public double min(double a, double b){
         if (a < b)

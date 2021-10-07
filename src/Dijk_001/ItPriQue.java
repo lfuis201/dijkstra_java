@@ -6,7 +6,7 @@ public class ItPriQue implements Comparable<ItPriQue>{
     
     public double d;
     public int u;
-
+    //
     public ItPriQue(double d, int u){
         this.d = d;
         this.u = u;
